@@ -44,10 +44,7 @@ namespace E_mailTest
             //elementButtonEnterE_mail.Click(); //нажимаем кнопку "Войти"
 
 
-            //gdgdf
-            //234234234cf
-            //45
-            //1212
+          
 
         }
     }
